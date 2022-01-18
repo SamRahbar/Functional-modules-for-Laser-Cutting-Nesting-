@@ -1,4 +1,4 @@
-import pathlib
+import pathlib2 as pathlib
 from setuptools import setup
 
 # The directory containing this file
